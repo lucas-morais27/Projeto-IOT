@@ -11,7 +11,7 @@ Trabalho prático de apresentação de um projeto de uma solução tecnológica.
 
 ## Resumo do projeto
 ### Automatização no controle de fluxo de veículos em locais privados
-Visando solucionar problemas com a segurança de locais privados e a agilidade no fluxo de veículos, foi criado um script em python com auxilio do EasyOCR @JaidedAI para reconhecimento de caracteres no intuito de automatizar o reconhecimento de placas de veículos para verificação de acesso a certa localidade.
+Visando solucionar problemas com a segurança de locais privados e a agilidade no fluxo de veículos, foi criado um script em python com auxilio do EasyOCR @github/JaidedAI para reconhecimento de caracteres no intuito de automatizar o reconhecimento de placas de veículos para verificação de acesso a certa localidade.
 
 ## Explicação do projeto e código
 📦 [Google Drive](https://drive.google.com/file/d/1ZsPRdFAD6hxc09mFp0dWI1GGJ6D7bx8T/view)
