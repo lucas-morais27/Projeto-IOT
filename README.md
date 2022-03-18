@@ -23,3 +23,6 @@ Visando solucionar problemas com a segurança de locais privados e a agilidade n
 - Código em Python: code.py
 - Código em Jupyter Notebook: code.ipynb
 - Planilha de teste: placas-cadastradas.csv
+
+## Requisitos
+- PyTorch
